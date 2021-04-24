@@ -27,23 +27,86 @@
                 ]
             },
             {
-                "title": "",
+                "title": "Pizza",
                 "answers": [
                     {
-                        "title": "Estou curtindo",
+                        "title": "Calabresa",
                         "isRight": false
                     },
                     {
-                        "title": "Adorando",
+                        "title": "Portuguesa",
                         "isRight": false
                     },
                     {
-                        "title": "Amando",
+                        "title": "Marguerita",
                         "isRight": false
                     },
                     {
-                        "title": "Quero casar APENAS",
+                        "title": "Pepperoni",
                         "isRight": true
+                    }
+                ]
+            },
+            {
+                "title": "O que o Flutter faz em sua totalidade",
+                "answers": [
+                    {
+                        "title": "Kit de desenvolvimento de interface de usuário",
+                        "isRight": false
+                    },
+                    {
+                        "title": "Possibilita a criação de aplicativos compilados nativamente",
+                        "isRight": true
+                    },
+                    {
+                        "title": "Marca de café do Himalaia",
+                        "isRight": false
+                    },
+                    {
+                        "title": "Possibilita a criação de desktops que são muito incríveis",
+                        "isRight": false
+                    }
+                ]
+            },
+            {
+                "title": "Qual linguagem é utilizada no Flutter?",
+                "answers": [
+                    {
+                        "title": "JavaScript",
+                        "isRight": false
+                    },
+                    {
+                        "title": "Java",
+                        "isRight": false
+                    },
+                    {
+                        "title": "Dart",
+                        "isRight": true
+                    },
+                    {
+                        "title": "SQL",
+                        "isRight": false
+                    }
+                ]
+            },
+            {
+                "title": "Na estrutura de estilo reativo do Flutter, chamar ___ aciona uma chamada ao método build () para o objeto State, resultando em uma atualização da IU.",
+                "answers": [
+                    {
+                        "title": "buildRow () ",
+                        "isRight": false
+                    },
+                    {
+                        "title": "onTap()",
+                        "isRight": false
+                    },
+                    {
+                        "title": "setState()",
+                        "isRight": true
+                    },
+                    {
+                        "title": "Nenhuma das acima",
+                        "isRight": false
                     }
                 ]
             }
